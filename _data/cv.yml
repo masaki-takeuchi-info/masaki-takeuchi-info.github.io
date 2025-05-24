@@ -9,6 +9,8 @@
       value: Graduate School of Engineering Science, the University of Osaka
     - name: Email
       value: takeuchi.masaki.fpq[at]ecs.osaka-u.ac.jp
+    - name: Memberships
+      value: IEEE
       
 - title: Education
   type: time_table
@@ -61,3 +63,9 @@
     - title: Vulcanus in Europe
       institution: EU-Japan Centre for Industrial Cooperation
       year: 2021.4 - 2022.3.
+
+- title: Service (Review)
+  type: map
+  contents:
+    - name: Conference Paper
+      value: IEEE International Symposium on Augmented and Mixed Reality (ISMAR) (2025)
