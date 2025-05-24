@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Updated CV (membership and services).
+Updated CV (membership and service).
