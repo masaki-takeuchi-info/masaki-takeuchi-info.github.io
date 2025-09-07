@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented a poster at the Inaugural Texture Forum.
+Presented a poster at the [Inaugural Texture Forum](https://www.shitsukan.jp/tsudoi/event/2025.html).
