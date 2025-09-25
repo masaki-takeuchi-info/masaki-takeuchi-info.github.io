@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-02 00:00:00-0400
+date: 2025-09-10 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Presented a poster at the [Inaugural Texture Forum (第1回質感フォーラム)](https://www.shitsukan.jp/tsudoi/event/2025.html).
+Gave an oral presentation at [Vision Society of Japan 2025 Summer Meeting​](https://sites.google.com/view/vsj2025summer/).
