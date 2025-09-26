@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented a poster at [Inaugural Texture Forum (第1回質感フォーラム)](https://www.shitsukan.jp/tsudoi/event/2025.html).
+Gave a poster presentation at [Inaugural Texture Forum (第1回質感フォーラム)](https://www.shitsukan.jp/tsudoi/event/2025.html).
