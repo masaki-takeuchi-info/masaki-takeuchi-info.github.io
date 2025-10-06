@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-02 00:00:00-0400
+date: 2025-10-02 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Presented a poster at the [Inaugural Texture Forum (第1回質感フォーラム)](https://www.shitsukan.jp/tsudoi/event/2025.html).
+The co-author gave an oral presentation at [SIGMR (第77回 複合現実感研究会)](https://sigmr.vrsj.org/events/2025Oct.html).
