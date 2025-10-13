@@ -68,4 +68,10 @@
   type: map
   contents:
     - name: Conference Paper
-      value: IEEE International Symposium on Augmented and Mixed Reality (ISMAR) (2025)
+      value: IEEE ISMAR (2025)
+      value: IEEE VR (2026)
+
+- title: Service (Conference Student Volunteer)
+  type: map
+  contents:
+    - value: IEEE VR (2024)
