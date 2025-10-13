@@ -65,19 +65,12 @@
       year: 2021.4 - 2022.3.
 
 - title: Service
-  type: map
   contents:
-    - title: Review
-      type: map
-      contents:
-        - name: Conference Paper
-          value:
-            - IEEE ISMAR (2025)
-            - IEEE VR (2026)
+    - name: Review — Conference Paper
+      value:
+        - IEEE ISMAR (2025)
+        - IEEE VR (2026)
+    - name: Conference Student Volunteer — Conference Paper
+      value:
+        - IEEE VR (2024)
 
-    - title: Conference Student Volunteer
-      type: map
-      contents:
-        - name: Conference Paper
-          value:
-            - IEEE VR (2024)
