@@ -65,6 +65,7 @@
       year: 2021.4 - 2022.3.
 
 - title: Service
+  type: time_table
   contents:
     - name: Review — Conference Paper
       value:
