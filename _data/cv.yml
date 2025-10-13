@@ -64,14 +64,16 @@
       institution: EU-Japan Centre for Industrial Cooperation
       year: 2021.4 - 2022.3.
 
-- title: Service
-  type: time_table
-  contents:
-    - name: Review — Conference Paper
-      value:
-        - IEEE ISMAR (2025)
-        - IEEE VR (2026)
-    - name: Conference Student Volunteer — Conference Paper
-      value:
-        - IEEE VR (2024)
-
+- title: Service (Review) 
+  type: map 
+  contents: 
+    - name: Conference Paper 
+      value: IEEE ISMAR (2025) 
+    - name: 
+      value: IEEE VR (2026) 
+      
+- title: Service (Conference Student Volunteer) 
+  type: map 
+  contents: 
+    - name: 
+      value: IEEE VR (2024)
