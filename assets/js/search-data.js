@@ -424,9 +424,9 @@ ninja.data = [{
           description: "IEEE TVCG 2024, IEEE VR 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-projection-mapping-under-environmental-lighting",
-          title: 'Projection Mapping under Environmental Lighting',
-          description: "IEEE TVCG 2024, IEEE VR 2024",
+            },},{id: "projects-luminosity-thresholds-in-projection-mapping",
+          title: 'Luminosity Thresholds in Projection Mapping',
+          description: "Frontiers in Virtual Reality 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
