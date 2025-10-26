@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Projection Mapping under Environmental Lighting
-description: IEEE TVCG 2024, IEEE VR 2024
+title: Luminosity Thresholds in Projection Mapping
+description: Frontiers in Virtual Reality 2025
 img: assets/img/teaser_2024TVCG_room_only.png
 importance: 1
 category: work
 related_publications: false
 ---
 
-Projection mapping (PM) is a technique that enhances the appearance of real-world surfaces using projected images, enabling multiple people to view augmentations simultaneously, thereby facilitating communication and collaboration. However, PM typically requires a dark environment to achieve high-quality projections, limiting its practicality. In this paper, we overcome this limitation by replacing conventional room lighting with heterogeneous projectors. These projectors replicate environmental lighting by selectively illuminating the scene, excluding the projection target. Our contributions include a distributed projector optimization framework designed to effectively replicate environmental lighting and the incorporation of a large-aperture projector, in addition to standard projectors, to reduce high-luminance emitted rays and hard shadows-undesirable factors for collaborative tasks in PM. We conducted a series of quantitative and qualitative experiments, including user studies, to validate our approach. Our findings demonstrate t hat our projector-based lighting system significantly enhancesthe contrast and realism of PM results even under e nvironmental lighting compared to typical lights. Furthermore, our method facilitates a substantial shift in the perceived color mode from the undesirable aperture-color mode, where observers perceive the projected object as self-luminous, to the surface-color mode in PM.
+Projection mapping alters the visual appearance of objects by projecting images onto their surfaces. Traditionally, its application has been limited to dark environments because the contrast of the projected image diminishes in environmental lighting. This often results in the target appearing self-luminous, creating a perceptually unnatural effect. Recently, however, projection systems have been developed that maintain high contrast even in well-lit environments. Studies have shown that projections in bright rooms can shift perception from an appearance of self-luminosity to one of being illuminated. This advancement holds significant promise for applications that require visual naturalness, such as product design. Nonetheless, the influence of projected content on perception and the underlying mechanisms of perceptual color transitions in projection targets remain unclear. In this study, we found that the presence or absence of patterns in the projected content affects the luminosity threshold at which the projection target is perceived as self-luminous. Previous research in perception has suggested that the visual system relies on intrinsic criteria to determine whether an object is self-luminous. However, our results revealed that in projection mapping, the internal reference for color perception, developed through observations of colors in daily life, does not always apply. These results indicate the existence of perceptual phenomena unique to projection mapping. This insight is crucial for product design, as it aims to achieve representations that closely resemble the appearance of real-world objects.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -16,5 +16,5 @@ Projection mapping (PM) is a technique that enhances the appearance of real-worl
     </div>
 </div>
 <div class="caption">
-    The proposed projection mapping system mitigates the reduction in contrast under environmental lighting. The left image provides an overall view of the texture projection in a well-lit room using the proposed technique. The crack pattern texture is projected onto the white statue located at the center of the desk. The images on the right show enlarged views of the statue without (left) and with (right) the texture projection. These images were captured in three different lighting conditions: a dark room, where projection mapping is typically conducted; under typical room lighting with LED lights; and under the proposed environmental lighting using projectors. The results demonstrate that our technique reproduces typical room lighting using multiple projectors and enhances the contrast of the projected result on the target surface.
+    xxx
 </div>
