@@ -2,7 +2,7 @@
 layout: page
 title: Luminosity Thresholds in Projection Mapping
 description: Frontiers in Virtual Reality 2025
-img: assets/img/teaser_2024TVCG_room_only.png
+img: assets/img/exp_result_all3.jpg
 importance: 1
 category: work
 related_publications: false
@@ -12,9 +12,9 @@ Projection mapping alters the visual appearance of objects by projecting images 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaser_2024TVCG.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/exp_result_all3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    xxx
+    Experimental result. Mean luminosity thresholds for each texture.
 </div>
