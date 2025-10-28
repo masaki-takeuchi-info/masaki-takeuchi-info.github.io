@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The journal paper was accepted by [Frontiers in Virtual Reality](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1649901/abstract).
+A journal paper was accepted by [Frontiers in Virtual Reality](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1649901/abstract).
