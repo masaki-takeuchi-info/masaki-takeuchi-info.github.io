@@ -9,9 +9,9 @@ profile:
   image: masaki_takeuchi.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Life and Mind Building,</p>
-    <p>South Parks Road</p>
-    <p>Oxford, OX1 3EL, UK</p>
+    <p>1-3-D449 Machikaneyama</p>
+    <p>Toyonaka, Osaka</p>
+    <p>560-8531, Japan</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
